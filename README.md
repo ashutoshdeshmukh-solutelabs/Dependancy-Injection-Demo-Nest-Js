@@ -1,2 +1,2 @@
-# Dependancy-Injection-Demo-Nest-Js
-Dependancy-Injection-Demo-Nest-Js
+# Dependency-Injection-Demo-Nest-Js
+Dependency-Injection-Demo-Nest-Js
